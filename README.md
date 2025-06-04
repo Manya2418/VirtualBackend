@@ -32,7 +32,7 @@
 ## 🔨 Installation & Setup
 
 ### 1. Clone the Repository
-git clone https://github.com/prachimehar/VirtualShop
+git clone https://github.com/Manya2418/VirtualBackend
 
 cd VirtualShop
 
