@@ -25,6 +25,7 @@ app.use('/order',orderRouter)
 app.use('/admin',adminRouter)
 
 
+app.get("/", (req, res) => res.send("Hello"));
 
 app.post('/', (req, res) => {
   const { address } = req.body;
